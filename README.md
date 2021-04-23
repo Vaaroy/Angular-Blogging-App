@@ -4,7 +4,6 @@
 
 Developing a **Blogging App (Education) Application using Angular8**.
 
-**Live Demo** : [Angular-shopping-cart](https://blog-app-3cda4.firebaseapp.com/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.1.
 
