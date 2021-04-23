@@ -108,9 +108,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ![Alt text](https://github.com/mehulk05/Angular-Blogging-App/blob/master/screenshots/Screenshot%20(87).png "blog Page")
 
-### Blog:
 
-![Alt text](https://github.com/mehulk05/Angular-Blogging-App/blob/master/screenshots/Screenshot%20(88).png "blog Page")
 
 ## How can I support the developer ?
 
