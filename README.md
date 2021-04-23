@@ -102,11 +102,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ### Home Page:
 
-![Alt text](https://github.com/mehulk05/Angular-Blogging-App/blob/master/screenshots/Screenshot%20(86).png "Home Page")
+![Alt text](https://github.com/Vaaroy/Angular-Blogging-App/blob/master/screenshots/Screenshot1.PNG "Home Page")
 
 ### Blog List Page:
 
-![Alt text](https://github.com/mehulk05/Angular-Blogging-App/blob/master/screenshots/Screenshot%20(87).png "blog Page")
+![Alt text](https://github.com/Vaaroy/Angular-Blogging-App/blob/master/screenshots/Screenshot2.PNG "blog Page")
 
 
 
